@@ -1,0 +1,15 @@
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/bin/Debug/net6.0/Lesson_1_Task_3
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/bin/Debug/net6.0/Lesson_1_Task_3.deps.json
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/bin/Debug/net6.0/Lesson_1_Task_3.runtimeconfig.json
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/bin/Debug/net6.0/Lesson_1_Task_3.dll
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/bin/Debug/net6.0/ref/Lesson_1_Task_3.dll
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/bin/Debug/net6.0/Lesson_1_Task_3.pdb
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/obj/Debug/net6.0/Lesson_1_Task_3.csproj.AssemblyReference.cache
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/obj/Debug/net6.0/Lesson_1_Task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/obj/Debug/net6.0/Lesson_1_Task_3.AssemblyInfoInputs.cache
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/obj/Debug/net6.0/Lesson_1_Task_3.AssemblyInfo.cs
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/obj/Debug/net6.0/Lesson_1_Task_3.csproj.CoreCompileInputs.cache
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/obj/Debug/net6.0/Lesson_1_Task_3.dll
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/obj/Debug/net6.0/ref/Lesson_1_Task_3.dll
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/obj/Debug/net6.0/Lesson_1_Task_3.pdb
+/Users/main/Desktop/Разработчик/Знакомство с языками/C#/Lesson_1_Task_3/obj/Debug/net6.0/Lesson_1_Task_3.genruntimeconfig.cache
