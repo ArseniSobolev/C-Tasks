@@ -1,0 +1,15 @@
+﻿Console.Write("enter numbers: A, B, C : " ); 
+string A = Console.ReadLine();
+string B = Console.ReadLine();
+string C = Console.ReadLine();
+int A1 = int.Parse(A);
+int B1 = int.Parse(B);
+int C1 = int.Parse(C);
+int Max = A1;
+if ( A1 > Max);
+Max = A1;
+if ( B1 > Max);
+Max = B1;
+if ( C1 > Max);
+Max = C1;
+Console.WriteLine(Max);
